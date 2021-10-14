@@ -45,7 +45,6 @@ contract SupplyChain {
   // <LogReceived event: sku arg>
   event LogReceived(uint sku);
 
-
   /* 
    * Modifiers
    */
